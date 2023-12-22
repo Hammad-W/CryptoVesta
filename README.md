@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# CryptoVesta
+Cryptovesta: web app for crypto enthusiasts, offers real-time data, charts, news. Uses React, Redux, APIs. Detailed doc covers objectives, impact, insights, and methodologies. Aims to empower users in navigating the crypto landscape.
+>>>>>>> cbc63eff7c7867cf076a2877eee3a8f51b93b2c9
